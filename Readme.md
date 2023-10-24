@@ -4,7 +4,7 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
-| [1. Приближенное значение Пи](./contest_1/01/main.cpp) | ![](./img/cpp.png) |
+| [1. Приближенное значение Пи](./contest_1/1/main.cpp) | ![](./img/cpp.png) |
 | [2. Кислород](./contest_1/2/main.go) |  ![](./img/go.png) |
 | [3. Частное](./contest_1/3/main.cpp) | ![](./img/cpp.png) |
 | [4. Произведение](./contest_1/4/main.go) | ![](./img/go.png) |
