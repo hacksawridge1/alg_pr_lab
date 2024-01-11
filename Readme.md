@@ -51,3 +51,19 @@
 | [7. Какое следующее слово](./contest_3/7/main.cpp) | ![](./img/cpp.png) |
 | [8. Уникальное число](./contest_3/8/main.go) | ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_3/9/main.go) | ![](./img/go.png) |
+
+|[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
+| --- | :-: |
+| [1. Количество выполненных задач](./contest_4/1/main.go) | ![](./img/go.png) |
+| [2. Количество выполненных задач](./contest_4/2/main.cpp) |  ![](./img/cpp.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_5/1/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_5/2/main.cpp) |  ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_5/3/main.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_5/4/main.cpp) | ![](./img/cpp.png) |
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_7/1/main.cpp) | ![](./img/cpp.png) |
